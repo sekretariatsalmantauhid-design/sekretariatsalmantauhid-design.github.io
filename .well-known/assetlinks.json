@@ -4,7 +4,7 @@
   "target": {
     "namespace": "android_app",
     "package_name": "com.mini.obsstreaming",
-    "sha256_cert_fingerprints":   ["7B:2A:31:9A:E7:77:FC:8D:CC:A9:1F:43:B5:2D:71:1F:63:6F:74:4A:89:FA:6D:22:53:68:24:67:C3:01:0E:A8"]
+    "sha256_cert_fingerprints": ["7B:2A:31:9A:E7:77:FC:8D:CC:A9:1F:43:B5:2D:71:1F:63:6F:74:4A:89:FA:6D:22:53:68:24:67:C3:01:0E:A8"]
   }
 },
 {
