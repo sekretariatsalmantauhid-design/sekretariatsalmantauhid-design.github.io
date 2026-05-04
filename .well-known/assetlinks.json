@@ -1,4 +1,5 @@
-[{
+[
+  {
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
@@ -7,4 +8,13 @@
       "02:2A:1E:D9:Fe:B0:E6:C9:82:6D:F9:9C:58:35:0B:77:89:A7:1A:D5:1F:14:2F:40:44:9F:91:D5:8C:02:78:C1"
     ]
   }
-}]
+},
+{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.attauhid.maktabah",
+        "sha256_cert_fingerprints": ["72:C8:11:49:3C:EF:DC:E0:9F:F3:BF:F7:0F:33:2D:F1:F5:92:6D:16:06:5A:44:BD:A8:13:9F:E8:2C:4D:47:CD"]
+      }
+    }
+]
