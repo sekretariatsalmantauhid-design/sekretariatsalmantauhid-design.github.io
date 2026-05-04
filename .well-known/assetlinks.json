@@ -12,7 +12,7 @@
       "target": {
         "namespace": "android_app",
         "package_name": "com.attauhid.maktabah",
-        "sha256_cert_fingerprints": ["72:C8:11:49:3C:EF:DC:E0:9F:F3:BF:F7:0F:33:2D:F1:F5:92:6D:16:06:5A:44:BD:A8:13:9F:E8:2C:4D:47:CD"]
+        "sha256_cert_fingerprints": ["8B:F3:B3:19:B3:7B:A8:3E:CA:A3:60:6C:71:31:02:E5:2E:5C:2E:E5:D2:08:37:F8:3D:3D:F5:BA:90:1B:71:9B"]
       }
     }
 ]
